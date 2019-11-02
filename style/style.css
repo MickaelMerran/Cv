@@ -43,9 +43,11 @@
 }
 .Projets{
     width: auto;
-    height: 500px;
-    background-color: chartreuse;
+    height: 450px;
+    text-align: center;
+
 }
+
 .Mecontacter{
     width: auto;
     height: 150px;
