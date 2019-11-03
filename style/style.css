@@ -1,6 +1,6 @@
 .Quisuisje{
     width: auto;
-    height: 650px;
+    height: 700px;
 }
 
 .fond{
@@ -25,6 +25,7 @@
     background-color: white;
     width: 100%;
     height: 400px;
+   
 }
 .textesurmoi h1{
     margin-top: 70px;
@@ -35,13 +36,16 @@
     text-align: center;
     margin-top: 100px;
     font-style: italic;
+    margin-bottom: 50px;
 }
 .Experienceprofessionnel{
     width: auto;
-    height: 1200px;
+    height: auto;
     background-color: white;
     margin-left: 50px;
     margin-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .Experienceprofessionnel h1{
@@ -49,7 +53,7 @@
 }
 .Projets{
     width: auto;
-    height: 450px;
+    height: auto;
     text-align: center;
 
 }
