@@ -10,7 +10,7 @@
 }
 
 
-.photo{
+.profil{
     width: 250px;
     height: 250px;
     border-radius: 150px;
@@ -18,7 +18,7 @@
     position: absolute; 
     top: 35%; left: 50%; 
     transform: translate(-50%, -50%);
-    background-image: url(../img/profil.JPG);
+
 }
 
 .textesurmoi{
@@ -38,8 +38,14 @@
 }
 .Experienceprofessionnel{
     width: auto;
-    height: 500px;
-    background-color: darkcyan;
+    height: 1200px;
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.Experienceprofessionnel h1{
+    text-align: center;
 }
 .Projets{
     width: auto;
